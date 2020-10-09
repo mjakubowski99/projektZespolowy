@@ -1,0 +1,22 @@
+1.Technologie: 
+	1.(html, css) :) 
+	2.javascript	
+	3.typescript+Angular
+	4.bootstrap(framework css z gotowymi template'ami)
+	5.php:
+		paczki do php, które mogą się przydać:
+			1. https://github.com/dannyvankooten/PHP-Router - pozwala na tworzenie nazywanych routów, 
+			zamiast mysite.com/index.php mozemy się odwoływać mysite.com/home itd
+			2. https://github.com/vlucas/phpdotenv - pozwala na ukrycie drażliwych danych, kluczy aplikacji,
+			haseł admina do baz danych
+			
+2.Koncept aplikacji: sklep internetowy wielobranżowy
+	Waluta:
+		nierzeczywista waluta przyznawana w jakis sposób użytkownikowi( np. za rozwiązanie quizu etc. ),
+		jednostka monetarna( sasiny lub eurogąbki - do ustalenia )
+	Kategorie produktów:
+		1.Sprzęt komputerowy
+
+	Planowane funkcjonalności aplikacji:
+		1.System autoryzacji uzytkowników(logowanie, rejestracja) dwupoziomowy czyli wymagający weryfikacji mailowej.
+		2.Moduł pozwalający użytkownikowi dobierać części komputerowe, które będą dobrze ze sobą współgrały
