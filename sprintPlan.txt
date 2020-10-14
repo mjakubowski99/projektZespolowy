@@ -1,0 +1,53 @@
+
+Milestone 1: Stworzenie koncepcyjnego projektu aplikacji
+	Epic:
+		1.Dobór technologii 
+		2.Wizja aplikacji
+		3.Diagramy
+		
+Milestone 2: Stworzenie dokumentacji i wizualizacji aplikacji
+	Epic:
+		1.Projekt graficzny
+		2.Skompletowanie dokumentacji
+	
+Milestone 3: Stworzenie planu pracy dla części implementacyjnej
+
+
+
+
+Sprint planning:
+
+Data: 14-10-2020 - 28-10-2020
+1.Research i planowanie
+		1.Research - Matuesz Kopczan
+		2.Research - Oskar Wal
+		3.Research - Piotr Korniak
+		4.Research - Michał Jakubowski
+		
+		Epic: Technology choose
+		5.Wspólne ustalenie doboru technologii
+		6.Zdokumentowanie wybranych technologii
+		Epic: Application vision
+		7.Zaplanowanie funkcjonalności
+		8.Zdokumentowanie funkcjonalności		
+		
+		Epic: diagrams
+		9.Wstępny diagram klas
+		
+		9.Spotkanie podsumowujące sprint, backlog refinement
+		10.Planowanie następnego sprintu
+
+2. Data: 29-10-2020 - 11-11-2020		
+
+3. Data: 12-11-2020 - 26-11-2020
+
+4. Data: 27-11-2020 - 11-12-2020
+
+Przerwa świąteczna
+
+5. Data: 03-01-2021 - 17-01-2021
+
+
+
+
+
