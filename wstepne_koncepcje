@@ -18,8 +18,46 @@
 		1.Sprzęt komputerowy
 
 	Planowane funkcjonalności aplikacji:
-		1.System autoryzacji uzytkowników(logowanie, rejestracja) dwupoziomowy czyli wymagający weryfikacji mailowej.
-		2.Moduł pozwalający użytkownikowi dobierać części komputerowe, które będą dobrze ze sobą współgrały
+		1. Autoryzacja:
+		- Rejestracja
+		- Mailowe potwierdzone rejestracji (O)
+		- Logowanie (token JWT)
+		- Restart hasła (O)
+		
+		2. Konto (rola - klient)
+		- Dodawanie waluty (fake-blik)
+		- Zmiana adresu
+		- Dodawanie alternatywnych adresów (O)
+		- Historia zakupów
+		
+		3. Konto (rola - admin)
+		- Wystawianie nowych przedmiotów
+		- Edycja wystawionych przedmiotów
+		- Archiwizacja wystawionych przedmiotów
+		- Historia sprzedaż
+		
+		4. Przeglądanie przedmiotów
+		- Wyświetlanie listy przedmiotów (tytuł, cena itp.)
+		- Wyszukiwarka
+		- Kategorie
+		- Kryterie do kategorii (O)
+		- Sortowanie po cenach, popularności.
+		- Stronicowanie (O)
+		
+		5. Szczegóły przedmiotu
+		- Wyświetlanie szczegółów (tytuł, cena, opis)
+		- Dodawawanie do koszyka
+		
+		6. Koszyk
+		- Usuwanie z koszyka
+		- Modyfikacja ilości
+		- Finalizacja koszyka
+		- Wybór adresu (O)
+		- Płatność w wirtualnej walucie
+		- Udostępnianie koszyka (O)
+		
+		7. Deploy
+		- Continuous Integration
 		
 		
 Na faście powklejane:
