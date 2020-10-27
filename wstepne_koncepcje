@@ -40,13 +40,13 @@
 		- Wyświetlanie listy przedmiotów (tytuł, cena itp.)
 		- Wyszukiwarka
 		- Kategorie
-		- Kryterie do kategorii (O)
+		- Kryteria do kategorii (O)
 		- Sortowanie po cenach, popularności.
 		- Stronicowanie (O)
 		
 		5. Szczegóły przedmiotu
 		- Wyświetlanie szczegółów (tytuł, cena, opis)
-		- Dodawawanie do koszyka
+		- Dodawanie do koszyka
 		
 		6. Koszyk
 		- Usuwanie z koszyka
@@ -59,20 +59,25 @@
 		7. Deploy
 		- Continuous Integration
 		
+		8. Pomoc w dobieraniu części komputerowych pasujących do obecnego zestawu
+		
+		9. Promocje ograniczone czasowo oraz kody promocyjne
+		
+		10. Obserwowanie przedmiotów, informowanie o zmianie dostępności oraz o promocjach związanych z przedmiotem
+		
+		11. Możliwość zamówienia kuriera do zwrotu w ciągu 14 dni od zakupu
+		
+		12. Możliwość zgłaszania błędów sklepu
+		
+		13. Ocenianie sprzedawanych przedmiotów przez kupujących
+		
+		14. Możliwość zadania pytania na temat konkretnego produktu, inni użytkownicy mogą odpowiadać
+
+		
+		
+		
 		
 Na faście powklejane:
-	"Jak mamy robić sklep komputerowy 
-	To można dać coś typu Robisz koszyk Dajesz do jego procesor Kartę graficzną
-	I i jakimś sposobem pojawiają ci się sugerowane płyty główne zgodne z socketem"
-	
-	"Można tez to dzielić na sugerowane z RGB lub bez"
-	
-	"promocje ? pomoc online?"
-	
-	"Powiadomienia z promocjami."
-	
 	"a takie cos ze wchodzisz w konfigurator wybierasz np. intel i budzet i wyskakuja np. i5[polecane] i3 i7 i9 dalej przechodzisz 
 	do tej karty i na podstawie budzetu jaki dales i tego jaki procek wybrales jest w stanie ci dac jakas karte[polecane] i 
 	tam reszta ktora moze byc i tak az sie caly zlozy ogolnie to by bazowalo na kilku gotowych konfiguracjach te polecanie"
-	
-	"lista sugerowanych komponentów i 1 polecany przez stronę"
