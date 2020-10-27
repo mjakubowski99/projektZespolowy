@@ -37,7 +37,17 @@ Data: 14-10-2020 - 28-10-2020
 		9.Spotkanie podsumowujące sprint, backlog refinement
 		10.Planowanie następnego sprintu
 
-2. Data: 29-10-2020 - 11-11-2020		
+29-10-2020 - 11-11-2020
+2. Data: Diagramy klas i nie tylko
+	1.Dopracowanie diagramu klas - diagramy
+	2.Sprawdzenie bepieczeństwa wybranych technologii
+	3.Stworzenie diagramu stanów - diagramy
+	4.Stworzenie diagramu sekwencji - diagramy
+	5.Wstępne przygotowanie oprogramowania i uzupełnienie wiedzy do projektu GUI aplikacji - technology choose
+	6.Dopracowanie diagramu stanów - diagramy 
+	7.Dopracowanie diagramów sekwencji - diagramy
+	8.Spotkanie podsumowujące sprint
+	9.Planowanie następnego sprintu
 
 3. Data: 12-11-2020 - 26-11-2020
 
