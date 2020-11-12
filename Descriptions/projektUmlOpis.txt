@@ -1,0 +1,45 @@
+Controller - czyli serce aplikacji, dziedziczą po nim konkretne kontrolery wykonujące
+konkretne akcje
+
+W Controllerze są wypisane są takie ogólne metody niekoniecznie muszą być implementowane
+w każdym konkretnym kontrolerze
+
+Spis metod i ich oczekiwane działanie:
+	1. index() - metoda zwracająca widok aplikacji dla żądania metodą HTTP - GET
+	2. store() - metoda wywoływana przy wysyłaniu żądania metodą HTTP - POST
+		wykorzystywana do umieszczania czegoś w bazie danych
+	3. create() - metoda wywoływana przy wysyłaniu żądania, które ma za zadanie coś
+	   stworzyć
+	4. delete() - metoda, która jest wyłowywana przy okazji usuwania czegoś z bazy danych
+	
+	Wszystkie te metody zwracają na sam koniec odpowiedź - jakiś widok z odpowiedzią dla 
+	użytkownika co się stało.
+	
+	5. get() - metoda pobierająca klasę modelu z bazy danych
+	
+Model - modele będą obiektami z atrybutami odpowiadającymi rekordom w bazie danych, czyli
+np. Klasa User może wyglądać tak
+
+class User{
+	public name;
+	public email;
+	public photo;
+}
+
+Widok może dostać od kontrollera instacje obiektu oraz jakieś dane, lecz na razie
+nie wpadłem jak to dobrze zaznaczyć na diagramie.
+
+Czyli w skrócie mówiąc gdy wchodzimy na stronę Controller wykonuje jakieś operacje potrzebne
+do wyświetlenia danych użytkownikownikowi i zwraca View czyli stronę HTTP, view może dostać
+od controllera też jakieś dane, modele, które mają zostać wyświetlone na stronie.
+
+
+Brakujące rzeczy:
+
+1.Kontroller wysyłania maili
+2.Kontroller restartu hasła
+3.Konkretne filtry przedmiotów: filtr kategorii, sortowanie po cenach
+ ( wszystkie filtry są w pliku wstępne_koncepcje)
+4.Kontrollera do zwrotów kuriera
+5.Reszta to stworzenie metod i klas pomocniczych, tak aby spełnić wymagane funkcjonalności
+z pliku wstępne_koncepcje
