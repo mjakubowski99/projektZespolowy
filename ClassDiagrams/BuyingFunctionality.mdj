@@ -191,23 +191,6 @@
 										},
 										{
 											"_type": "UMLOperationView",
-											"_id": "AAAAAAF1rfX3dNwCFjU=",
-											"_parent": {
-												"$ref": "AAAAAAF1rfJz1dsIUhE="
-											},
-											"model": {
-												"$ref": "AAAAAAF1rfX3Rdv/boQ="
-											},
-											"font": "Arial;13;0",
-											"left": 125,
-											"top": 299,
-											"width": 352.25048828125,
-											"height": 13,
-											"text": "+showBuyPageForMethod(payMethod: string)",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
 											"_id": "AAAAAAF1rfkWANz8HkI=",
 											"_parent": {
 												"$ref": "AAAAAAF1rfJz1dsIUhE="
@@ -217,7 +200,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 125,
-											"top": 314,
+											"top": 299,
 											"width": 352.25048828125,
 											"height": 13,
 											"text": "+showDeliveryPage(deliveryMethod: string)",
@@ -234,7 +217,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 125,
-											"top": 329,
+											"top": 314,
 											"width": 352.25048828125,
 											"height": 13,
 											"text": "+showOrderReasume(products, payMethod, deliveryMethod)",
@@ -245,7 +228,7 @@
 									"left": 120,
 									"top": 279,
 									"width": 362.25048828125,
-									"height": 68
+									"height": 53
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -285,7 +268,7 @@
 							"left": 120,
 							"top": 216,
 							"width": 362.25048828125,
-							"height": 131,
+							"height": 116,
 							"nameCompartment": {
 								"$ref": "AAAAAAF1rfJz1NsCTL8="
 							},
@@ -350,25 +333,6 @@
 									},
 									"name": "products",
 									"type": "array<Product>"
-								}
-							]
-						},
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAF1rfX3Rdv/boQ=",
-							"_parent": {
-								"$ref": "AAAAAAF1rfJz0tr/dJE="
-							},
-							"name": "showBuyPageForMethod",
-							"parameters": [
-								{
-									"_type": "UMLParameter",
-									"_id": "AAAAAAF1rfarhdwGrJ0=",
-									"_parent": {
-										"$ref": "AAAAAAF1rfX3Rdv/boQ="
-									},
-									"name": "payMethod",
-									"type": "string"
 								}
 							]
 						},
