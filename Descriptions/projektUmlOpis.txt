@@ -1,4 +1,4 @@
-Controller - czyli serce aplikacji, dziedziczą po nim konkretne kontrolery wykonujące
+﻿Controller - czyli serce aplikacji, dziedziczą po nim konkretne kontrolery wykonujące
 konkretne akcje
 
 W Controllerze są wypisane są takie ogólne metody niekoniecznie muszą być implementowane
@@ -32,14 +32,3 @@ nie wpadłem jak to dobrze zaznaczyć na diagramie.
 Czyli w skrócie mówiąc gdy wchodzimy na stronę Controller wykonuje jakieś operacje potrzebne
 do wyświetlenia danych użytkownikownikowi i zwraca View czyli stronę HTTP, view może dostać
 od controllera też jakieś dane, modele, które mają zostać wyświetlone na stronie.
-
-
-Brakujące rzeczy:
-
-1.Kontroller wysyłania maili
-2.Kontroller restartu hasła
-3.Konkretne filtry przedmiotów: filtr kategorii, sortowanie po cenach
- ( wszystkie filtry są w pliku wstępne_koncepcje)
-4.Kontrollera do zwrotów kuriera
-5.Reszta to stworzenie metod i klas pomocniczych, tak aby spełnić wymagane funkcjonalności
-z pliku wstępne_koncepcje
