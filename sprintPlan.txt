@@ -50,6 +50,16 @@ Data: 14-10-2020 - 28-10-2020
 	9.Planowanie następnego sprintu
 
 3. Data: 12-11-2020 - 26-11-2020
+	1.Projekt bazy danych
+	2.Projekt strony głównej - Projekt wizualny
+	3.Projekt strony logowania i rejestracji - Projekt wizualny
+	4.Projekt shopping carts - Projekt wizualny
+	5.Projekt strony kupowania - Projekt wizualny
+	6.Projekt strony listy zamówień - Projekt wizualny
+	7.Uzupełnienie dokumentacji technicznej o diagramy - dokumentacja
+	9.Dopracowanie projektu bazy danych
+	9.Spotkanie podsumowujące sprint
+	10.Planowanie następnego sprintu
 
 4. Data: 27-11-2020 - 11-12-2020
 
