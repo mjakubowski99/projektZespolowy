@@ -1,5 +1,5 @@
 
-Milestone 1: Stworzenie koncepcyjnego projektu aplikacji
+Milestone 1: Stworzenie koncepcyjnego projektu aplikacji 14-10-2020 - 16-11-2020
 	Epic:
 		1.Dobór technologii 
 		2.Wizja aplikacji
@@ -37,7 +37,7 @@ Data: 14-10-2020 - 28-10-2020
 		9.Spotkanie podsumowujące sprint, backlog refinement
 		10.Planowanie następnego sprintu
 
-29-10-2020 - 11-11-2020
+02-11-2020 - 16-11-2020
 2. Data: Diagramy klas i nie tylko
 	1.Dopracowanie diagramu klas - diagramy
 	2.Sprawdzenie bepieczeństwa wybranych technologii
