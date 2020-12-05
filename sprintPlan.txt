@@ -49,7 +49,7 @@ Data: 14-10-2020 - 28-10-2020
 	8.Spotkanie podsumowujące sprint
 	9.Planowanie następnego sprintu
 
-3. Data: 12-11-2020 - 26-11-2020
+3. Data: 18-11-2020 - 02-12-2020
 	1.Projekt bazy danych
 	2.Projekt strony głównej - Projekt wizualny
 	3.Projekt strony logowania i rejestracji - Projekt wizualny
@@ -62,6 +62,14 @@ Data: 14-10-2020 - 28-10-2020
 	10.Planowanie następnego sprintu
 
 4. Data: 27-11-2020 - 11-12-2020
+	1.Projekt formularza do zgłaszania błędów. - Projekt wizualny - przeniesione na następny sprint
+	2.Projekt strony logowania i rejestracji. - Projekt wizualny - przeniesione na następny sprint
+	3.Projekt koszyka. - Projekt wizualny
+	4.Uzupełnienie dokumentacji o skończone projekty. - dokumentacja
+	5.Uzupłenienie dokumentacji o resztę projektów. - dokumentacja 
+	6.Wstępne koncepcje na planowanie części implementacyjnej
+	7.Planowanie następnego sprintu
+	8.Spotakanie podsumowujące sprint
 
 Przerwa świąteczna
 
