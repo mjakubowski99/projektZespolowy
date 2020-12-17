@@ -63,8 +63,8 @@
 												"$ref": "AAAAAAF1zcd/Dmvtfvg="
 											},
 											"font": "Arial;13;0",
-											"left": 78.97900390625,
-											"top": 10,
+											"left": 86.97900390625,
+											"top": 13,
 											"width": 115.9052734375,
 											"height": 13,
 											"text": "SequenceDiagram1"
@@ -76,16 +76,16 @@
 												"$ref": "AAAAAAF1zcd/Dmvtfvg="
 											},
 											"font": "Arial;13;1",
-											"left": 13,
-											"top": 10,
+											"left": 21,
+											"top": 13,
 											"width": 60.97900390625,
 											"height": 13,
 											"text": "interaction"
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 8,
-									"top": 5,
+									"left": 16,
+									"top": 8,
 									"width": 1332,
 									"height": 595,
 									"nameLabel": {
@@ -1562,6 +1562,19 @@
 									"linePart": {
 										"$ref": "AAAAAAF1zewnPucC3uQ="
 									}
+								},
+								{
+									"_type": "UMLNoteView",
+									"_id": "AAAAAAF2bOBHTUlL5/w=",
+									"_parent": {
+										"$ref": "AAAAAAF1zcd/DmvspCc="
+									},
+									"font": "Arial;18;0",
+									"left": 528,
+									"top": 624,
+									"width": 209,
+									"height": 89,
+									"text": "Every user action is performed by router which run some controller action"
 								}
 							]
 						}

@@ -1,4 +1,4 @@
-
+﻿
 Milestone 1: Stworzenie koncepcyjnego projektu aplikacji 14-10-2020 - 16-11-2020
 	Epic:
 		1.Dobór technologii 
@@ -8,9 +8,9 @@ Milestone 1: Stworzenie koncepcyjnego projektu aplikacji 14-10-2020 - 16-11-2020
 Milestone 2: Stworzenie dokumentacji i wizualizacji aplikacji
 	Epic:
 		1.Projekt graficzny
-		2.Skompletowanie dokumentacji
+		2.Stworzenie dokumentacji
 	
-Milestone 3: Stworzenie planu pracy dla części implementacyjnej
+Milestone 3: Stworzenie planu pracy dla części implementacyjnej i ostatnie korekty
 
 
 
@@ -61,7 +61,7 @@ Data: 14-10-2020 - 28-10-2020
 	9.Spotkanie podsumowujące sprint
 	10.Planowanie następnego sprintu
 
-4. Data: 27-11-2020 - 11-12-2020
+4. Data: 5-12-2020 - 19-12-2020
 	1.Projekt formularza do zgłaszania błędów. - Projekt wizualny - przeniesione na następny sprint
 	2.Projekt strony logowania i rejestracji. - Projekt wizualny - przeniesione na następny sprint
 	3.Projekt koszyka. - Projekt wizualny
