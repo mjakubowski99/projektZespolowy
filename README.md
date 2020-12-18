@@ -11,4 +11,4 @@ Mateusz Kopczan - inżynier/backend developer
 Piotr Korniak - inżynier/frontend developer
 Oskar Wal - tester
 
-Część dalsza opisu wkrótce
+Część dalsza opisu wkrótce.
