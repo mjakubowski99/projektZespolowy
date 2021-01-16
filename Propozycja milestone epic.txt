@@ -1,3 +1,4 @@
+Oskar Wal
 I.	Dodawanie, usuwanie i wyszukiwanie produktów
 	1. Strona główna i strony z produktami
 	2. Panel administratora
@@ -12,4 +13,22 @@ III.	Zakupy
 	1. Zgłaszanie błedów
 	2. Koszyk (dodawanie, usuwanie produktow, kody rabatowe)
 	3. Zamówienie (platnosc, dostawa, zapis w bazie danych zamowienia)
- 
+
+
+
+Piotr Korniak
+I.	Produkty
+	1. Dodawanie produktów przez panel admina
+	2. Przeglądanie produktów
+
+II.	Użytkownik 
+	1. Logowanie, Rejestracja
+	2. Weryfikacja, Uwierzytelnianie
+	3. Ustawienia konta (adres, zmiana hasła)
+	4. Dostęp do użytkownika z panelu admina
+
+III.	Zamówienia
+	1. Koszyk
+	2. Finalizacja transakcji
+	3. Podpięcie do użytkownika jego zakupów
+	4. Dostęp do wszystkich zamówień z panelu admina
