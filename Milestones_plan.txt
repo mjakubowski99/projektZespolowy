@@ -1,0 +1,44 @@
+Milestone 1 - Zbudowanie środowiska i systemu uwierzytelniania 
+	
+	Epic 1 - Zbudowanie środowiska: 
+		Celami które będą realizowane w epiku będą:
+		    -zbudowanie struktury katalogów projektu
+			-stworzenie środowisk dev(development), test, prod(production)
+			-stworzenie bazy danych i połączenie jej z aplikacją 
+			
+	Epic 2 - System uwierzytelniania:
+	    Celami które będą realizowane w epiku będą: 
+			- system logowania i rejestracji 
+			- konto klienta
+			- system resetu hasła 
+			
+Milestone 2 - Funkcjonalność produktów i panel administracyjny 
+
+	Epic 1 - Funkcjonalność produktów: 
+		 Celami które będą realizowane w epiku będą: 
+			- system wyświetlania produktów
+			- wyszukiwarka produktów( po frazie, po kategorii )
+			- system listy zamówień 
+			
+	Epic 2 - Panel administracyjny 
+		  Celami które będą realizowane w epiku będą: 
+			  - zbudowanie panelu administracyjnego 
+			  - zbudowanie zarządzania kontami za pomocą panelu admina 
+			  - zbudowanie zarządzania zamówieniami za pomocą panelu admina 
+			  
+Milestone 3 - System zakupów i ich wspomagania
+	
+	Epic 1 - Funkcjonalność zamawiania:
+		Celami które będą realizowane w epiku będą:
+			-koszyk
+			-realizacja procesu zamówienia 
+			
+	Epic 2 - Funkcjonalność wspomagania klienta 
+		Celami które będą realizowane w epiku będą:
+			-zgłaszanie błędów
+			-system kompletacji komputera
+			-system rekomendacji 
+			
+			
+			
+			
