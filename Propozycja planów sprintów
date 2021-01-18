@@ -1,0 +1,31 @@
+Piotr Korniak
+
+Milestone 1 - Zbudowanie środowiska i systemu uwierzytelniania
+	1. Stworzenie szablonu strony startowej (Front-end)
+	2. Stworzenie okien potrzebnych do zalogowania się oraz rejestracji (Front-end)
+	3. Dodanie szablonów potrzebnych do restartu hasła (Front-end)
+	4. Integracja z serwerem (Front-end)
+	5. Stworzenie interceptora dodającego token do każdego requestu (Front-end)
+	
+Milestone 2 - Funkcjonalność produktów i panel administracyjny 
+	1. Zbudowanie panelu admina oraz weryfikacja dostępu do panelu (Front-end)
+	2. Rozbudowanie panelu admina o dodawanie nowych produktów (Front-end)
+	3. Rozbudowanie panelu admina o zarządzanie produktami (Front-end)
+	4. Rozbudowanie panelu admina o zarządzanie kontami (Front-end)
+	5. Rozbudowanie panelu admina o zarządzanie zamówieniami (Front-end)
+	6. Zbudowanie szablonu strony widoku produktów (Front-end)
+	7. Wyszukiwanie oraz stronicowanie produktów (Front-end)
+	8. Zbudowanie szablonu strony szczegółów produktu (Front-end)
+	9. Dodanie możliwości przeglądania historii zamówień (Front-end)
+	
+Milestone 3 - System zakupów i ich wspomagania
+	1. Zbudowanie Szablonu koszyka (Front-end)
+	2. Zbudowanie logiki potrzebnej do obsługi koszyka (Front-end)
+	3. Zbudowanie szablonów potrzebnych do procesu zamówienia (Front-end)
+	4. Zbudowanie logiki potrzebnej do zamówienia (Front-end)
+	5. Dodanie funkcjonalności do zgłaszania błędów (Front-end)
+	6. Rozbudowanie panelu admina o wyświetlanie błędów (Front-end)
+	7. Zbudowanie szablonów systemu umożliwiającego kompletacje komputera (Front-end)
+	8. Zbudowanie logiki potrzebnej do systemu umożliwiającego kompletacje komputera (Front-end)
+	9. Zbudowanie szablonów systemu rekomendacji (Front-end)
+	10. Zbudowanie logiki potrzebnej do systemu rekomendacji (Front-end)
