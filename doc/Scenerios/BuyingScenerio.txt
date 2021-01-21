@@ -1,0 +1,30 @@
+﻿1.Aktor chce dokonać zakupu produktu/produktów.
+	1.Aktor wysyła zapytanie do routera z danymi produktów, które chce zakupić.
+	2.Router uruchamia akcje kontrolera do wyswietlania produktów
+	2.1 Istnienie takich produktów zostaje potwierdzone.
+		1. W bazie zostaje utworzone zamówienie.
+		2. Zostaje wyświetlona strona wyboru metody płatności i opcji dostawy.
+		3. Aktor wybiera metodę płatności oraz opcje dostawy.
+		4. Aktor wysyła zapytanie z danymi płatności i opcjami dostawy.
+		5. Router uruchamia akcje kontrolera do wyswietlania podsumowania.
+		6.1 Istnienie takiej metody płatności oraz takiej opcji dostawy zostaje potwierdzone.
+			1. Wyswietlana jest strona z podsumowaniem.
+			2. Aktor przechodzi do zewnętrznego systemu bankowości.
+			3.1 Zewnętrzny system zwraca do naszego systemu informację o sukcesie dokonania płatności.
+				1.1 System dostaje rzeczywistą informację z banku
+					1. W bazie status zamówienia zostaje zmieniony na opłacony.
+					2. Wyswietlana jest strona z informacją o sukcesie stworzenia zamówienia z potwierdzeniem zakupu.
+				1.2 System dostaje nierzeczywistą informację z banku.
+					1. System zwraca stronę z błędem.
+					
+			3.2 Zewnętrzny system zwraca do naszego systemu informację o niepowodzeniu dokonania płatności.
+				1. Zamówienie zostaje usunięte z bazy danych.
+
+		6.2 Istnienie takiej metody płatności oraz takiej opcji dostawy nie zostaje potwierdzone.
+			1.Zostaje wyświetlona strona z błędami.
+	
+	2.2 Istnienie takich produktów nie zostaje potwierdzone.
+		1. Zostaje wyswietlona strona z błędami.
+	2.3 Takie produkty istnieją lecz zostały już wykupione.
+		1. Koszyk zostaje wyczyszczony z produktów, których już nie ma na stanie.
+		2. Użytkownik dostaje stosowną informację o tym jakie produkty zostały usunięte.

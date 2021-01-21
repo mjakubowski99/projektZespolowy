@@ -1,0 +1,77 @@
+1.Technologie: 
+	1.(html, css) :) 
+	2.javascript	
+	3.typescript+Angular
+	4.bootstrap(framework css z gotowymi template'ami)
+	5.php:
+		paczki do php, które mogą się przydać:
+			1. https://github.com/dannyvankooten/PHP-Router - pozwala na tworzenie nazywanych routów, 
+			zamiast mysite.com/index.php mozemy się odwoływać mysite.com/home itd
+			2. https://github.com/vlucas/phpdotenv - pozwala na ukrycie drażliwych danych, kluczy aplikacji,
+			haseł admina do baz danych
+			
+2.Koncept aplikacji: sklep internetowy wielobranżowy
+	Waluta:
+		nierzeczywista waluta przyznawana w jakis sposób użytkownikowi( np. za rozwiązanie quizu etc. ),
+		jednostka monetarna( sasiny lub eurogąbki - do ustalenia )
+	Kategorie produktów:
+		1.Sprzęt komputerowy
+
+	Planowane funkcjonalności aplikacji:
+		1. Autoryzacja:
+		- Rejestracja
+		- Mailowe potwierdzone rejestracji (O)
+		- Logowanie (token JWT)
+		- Restart hasła (O)
+		
+		2. Konto (rola - klient)
+		- Dodawanie waluty (fake-blik)
+		- Zmiana adresu
+		- Dodawanie alternatywnych adresów (O)
+		- Historia zakupów
+		
+		3. Konto (rola - admin)
+		- Wystawianie nowych przedmiotów
+		- Edycja wystawionych przedmiotów
+		- Archiwizacja wystawionych przedmiotów
+		- Historia sprzedaż
+		
+		4. Przeglądanie przedmiotów
+		- Wyświetlanie listy przedmiotów (tytuł, cena itp.)
+		- Wyszukiwarka
+		- Kategorie
+		- Kryteria do kategorii (O)
+		- Sortowanie po cenach, popularności.
+		- Stronicowanie (O)
+		
+		5. Szczegóły przedmiotu
+		- Wyświetlanie szczegółów (tytuł, cena, opis)
+		- Dodawanie do koszyka
+		
+		6. Koszyk
+		- Usuwanie z koszyka
+		- Modyfikacja ilości
+		- Finalizacja koszyka
+		- Wybór adresu (O)
+		- Płatność w wirtualnej walucie
+		- Udostępnianie koszyka (O)
+		
+		7. Deploy
+		- Continuous Integration
+		
+		8. Pomoc w dobieraniu części komputerowych pasujących do obecnego zestawu
+		
+		Opcjonalnie:
+		
+		9. Promocje ograniczone czasowo oraz kody promocyjne
+		
+		10. Obserwowanie przedmiotów, informowanie o zmianie dostępności oraz o promocjach związanych z przedmiotem
+		
+		11. Możliwość zamówienia kuriera do zwrotu w ciągu 14 dni od zakupu
+		
+		12. Możliwość zgłaszania błędów sklepu
+		
+		13. Ocenianie sprzedawanych przedmiotów przez kupujących
+		
+		14. Możliwość zadania pytania na temat konkretnego produktu, inni użytkownicy mogą odpowiadać 
+

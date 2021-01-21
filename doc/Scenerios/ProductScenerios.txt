@@ -1,0 +1,53 @@
+
+1.Aktor chce wyświetlić listę produktów:	
+	1.Aktor wysyła zapytanie do routera.
+	2.Router używa akcji kontrolera do wyświetlenia produktów.
+	3.1 Akcja kontrolera sukcesywnie pobiera produkty z bazy.
+		3.1.1 Akcja kontrola zwraca nam stronę z produktami.
+	3.2 Akcji kontrolera nie udało się pobrać produktów z bazy danych.
+		3.1.2 Akcja kontrolera zwraca nam stronę błędu.
+
+	 
+2.Aktor chce wyświetlić konkretny produkt:
+	1.Aktor wysyła zapytanie do routera.
+	2.Router uruchamia akcje kontrolera do wyświetlenia produktu.
+	3.1 Akcja kontrolera sukcesywnie pobiera produkty z bazy.
+		3.1.1 Akcja kontrola zwraca nam stronę z produktami.
+	3.2 Akcji kontrolera nie udało się pobrać produktów z bazy danych.
+		3.1.2 Akcja kontrolera zwraca nam stronę błędu z informacją o błędzie.
+		(Możliwe błędy: błąd bazy, złe dane, brak produktu w bazie)
+		
+3.Aktor chce wyszukać produkt
+	1.Aktor wysyła zapytanie do routera.
+	2.Router uruchamia akcje kontrolera do wyświetlenia wyników wyszukiwania
+	3.1 Wyszukiwanie zostaje zrealizowane.
+		3.1.1 a) Zwracana jest strona ze znalezionymi produktami.
+		3.1.1 b) Zwracana jest strona z informacją o tym, że nic nie znaleziono.
+	3.2 Wyszukiwanie kończy się błędem bazy danych.
+		3.2.1 Zwracana jest strona błędu z informacją o błędzie.
+		(Możliwe błędy: błąd bazy, złe dane, brak produktu w bazie)
+		
+4.Aktor chce użyć filtrów:
+	1.Aktor wysyła zapytanie do routera wraz z listą filtrów jakie chce użyć.
+	2.Router uruchamia akcje kontrolera do wyswietlania z filtrowanych produktów.
+	3.1 Zastosowanie wszystkich podanych filtrów daje nam wyniki.
+		3.1.1 a) Zwracana jest strona ze znalezionymi produktami.
+		3.1.1 b) Zwracana jest strona z informacją o tym, że nic nie znaleziono.
+	3.2 Filtrowanie kończy się błędem.
+		3.2.1 Zwracana jest strona z błędu z informacją jaki błąd nastąpił.
+		(Możliwe błędy: błąd bazy, złe dane, brak produktu w bazie)
+		
+5.Aktor chce dodać produkt do koszyka
+	1.Aktor wysyła zapytanie do routera wraz z informacją o produkcie, który chce dodać.
+	2.1 Istnieje sesja użytkownika, dla którego są wykonywane akcje.
+		2.1.1 Router uruchamia akcje kontrolera do dodawania do koszyka.
+		2.1.2.1 Produkt zostaje dodany do koszyka w bazie danych.
+			Wyświetlana jest ta sama strona, na której był użytkownik z informacją o sukcesie.
+		2.1.2.2 Produkt nie zostaje dodany do koszyka w bazie danych.
+			Wyświetlana jest ta sama strona, na której był użytkownik z informacją o błędzie.
+			(Możliwe błędy: produktu nie ma stanie, przekroczona ilość dostępnych, błąd bazy, złe zapytanie)
+	2.2 Nie istnieje sesja aktora
+		2.1.1 Zwracana jest strona do zalogowania się.
+		
+		
+	

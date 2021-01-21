@@ -1,0 +1,55 @@
+Oskar Wal
+I.	Dodawanie, usuwanie i wyszukiwanie produktów
+	1. Strona główna i strony z produktami
+	2. Panel administratora
+	3. Wyszukiwanie produktów (kategorie,sortowanie itp.)
+
+II.	Logowanie 
+	1. Rejestracja
+	2. Logowanie
+	3. Reset hasła
+
+III.	Zakupy
+	1. Zgłaszanie błedów
+	2. Koszyk (dodawanie, usuwanie produktow, kody rabatowe)
+	3. Zamówienie (platnosc, dostawa, zapis w bazie danych zamowienia)
+
+
+
+Piotr Korniak
+I.	Produkty
+	1. Dodawanie produktów przez panel admina
+	2. Przeglądanie produktów
+
+II.	Użytkownik 
+	1. Logowanie, Rejestracja
+	2. Weryfikacja, Uwierzytelnianie
+	3. Ustawienia konta (adres, zmiana hasła)
+	4. Dostęp do użytkownika z panelu admina
+
+III.	Zamówienia
+	1. Koszyk
+	2. Finalizacja transakcji
+	3. Podpięcie do użytkownika jego zakupów
+	4. Dostęp do wszystkich zamówień z panelu admina
+
+
+Mateusz Kopczan
+I.	System rejestracji i logowania + podstawowe GUI strony
+	1. Logowanie
+	2. Rejestracja
+	3. Panel użytkownika z możliwoscią: zmiany hasła, adresu
+	4. Panel administratora z możliwościami: sprawdzania zamówień, dostępu do wszystkich użytkowników
+
+II.	Baza danych, Koszyk, Produkty
+	1. Stworzenie bazy danych
+	2. Uzupełnienie danych w bazie
+	3. Funkcjonalność koszyka
+	4. Filtry i sortowanie produktów na stronie
+
+III.	Połączenie poprzednich elementów w całość + zamówienia
+	1. Połączenie bazy danych ze stroną
+	2. Testy koszyka (zapisywanie koszyka, usuwanie i dodawanie produktów)
+	3. Testy finalizacji zamówień
+	4. Poprawa znalezionych błędów
+	5. Publikacja projektu.
