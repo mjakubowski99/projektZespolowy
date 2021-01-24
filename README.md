@@ -6,24 +6,24 @@ interface, complete computer functionallity which will allow you to find best co
 
 Main page components:
 
-  1.Authentication System
-  
-  2.Admin Panel 
-  
-  3.Product Searching System
-  
-  4.Complete Computer Functionality 
-  
-  5.System of payments
+    1.Authentication System
+
+    2.Admin Panel 
+
+    3.Product Searching System
+
+    4.Complete Computer Functionality 
+
+    5.System of payments
 
 Team Members:
 
-  Michał Jakubowski - Leader
+    Michał Jakubowski - Leader
 
-  Mateusz Kopczan - Engineer/backend developer
+    Mateusz Kopczan - Engineer/backend developer
 
-  Piotr Korniak - Engineer/frontend developer
+    Piotr Korniak - Engineer/frontend developer
 
-  Oskar Wal - tester
+    Oskar Wal - tester
 
 
