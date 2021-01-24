@@ -16,14 +16,18 @@ Main page components:
 
     5.System of payments
 
-Team Members:
+Team Members and JQL filters with their work:
 
     Michał Jakubowski - Leader
+    https://projekt-zespolowy-mjakubowski.atlassian.net/browse/PROJ99-80?filter=-4&jql=assignee%20in%20(5f77366125fbdf0068478839)%20order%20by%20created%20DESC
 
     Mateusz Kopczan - Engineer/backend developer
+    https://projekt-zespolowy-mjakubowski.atlassian.net/browse/PROJ99-79?filter=-4&jql=assignee%20in%20(5f773710b61f66006f0e1d20)%20order%20by%20created%20DESC
 
     Piotr Korniak - Engineer/frontend developer
+    https://projekt-zespolowy-mjakubowski.atlassian.net/browse/PROJ99-78?filter=-4&jql=assignee%20in%20(5f773a97ac3a2d006febe920)%20order%20by%20created%20DESC
 
     Oskar Wal - tester
+    https://projekt-zespolowy-mjakubowski.atlassian.net/browse/PROJ99-77?filter=-4&jql=assignee%20in%20(5f7a2ba4b61f66006f22c6dd)%20order%20by%20created%20DESC
 
 
