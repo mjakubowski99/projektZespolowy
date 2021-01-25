@@ -19,7 +19,7 @@ z dopiskiem - poprawki.
 		9.Stworzenie skryptów logowania i rejestracji(Frontend) - Piotr Korniak 3 
 		10.Stworzenie skryptu dla systemu logowania i rejestracji(Backend) - Mateusz Kopczan 4
 		11.Stworzenie skryptu walidacji dla systemu logowania i rejestracji(Backend) - Michał Jakubowski 3
-        12.Testy jednostkowe systemu logowania i rejestracji - Oskar Wal 2
+        	12.Testy jednostkowe systemu logowania i rejestracji - Oskar Wal 2
 		13.Testy integracyjne systemu logowania i rejestracji - Oskar Wal 2 
 		14.Testy manualne systemu logowania i rejestracji - Oskar Wal 2
 		 
@@ -29,13 +29,12 @@ z dopiskiem - poprawki.
 		2.Stworzenie szablonów potrzebnych do restartu hasła - Piotr Korniak 3
 		3.Stworzenie skryptu dla resetu hasła (Backend) - Mateusz Kopczan 3
 		4.Stworzenie walidacji resestu hasła potrzebnych do restartu hasła - Michał Jakubowski 2
-        5.Stworzenie interceptora dodającego token do każdego requestu - Piotr Korniak 2
+        	5.Stworzenie interceptora dodającego token do każdego requestu - Piotr Korniak 2
 		6.Testy integracyjne resetu hasła - Oskar Wal 3
-		
 		7.Stworzenie szablonu i skryptów dla strony konta klienta sklepu - Piotr Korniak 2	 
 		8.Stworzenie skryptu konta klienta sklepu - Mateusz Kopczan  2 
 		9.Stworzenie kontroli dostępu do konta klienta. - Mateusz Kopczan 3
-        10.Stworzenie strony głównej - Piotr Korniak 1
+        	10.Stworzenie strony głównej - Piotr Korniak 1
 		11.Kontrola dostępu strony głównej - Michał Jakubowski 2 
 		10.Testy integracyjne panelu klienta - Oskar Wal 3
 		11.Testy regresyjne aktualnego stanu systemu - Oskar Wal 2  
@@ -46,36 +45,31 @@ z dopiskiem - poprawki.
 		1.Stworzenie strony i skryptu panelu admina(Frontend) - Piotr Korniak 2
 		2.Stworzenie skryptu panelu admina(Backend) - Matuesz Kopczan 2
 		3.Stworzenie wysokiego poziomu kontroli dostępu(Backend) - Michał Jakubowski 4
-		4.Testy integracyjne i manualne panelu admina 2
-		
+		4.Testy integracyjne i manualne panelu admina 2	
 		5.Rozbudowanie panelu admina o funkcjonalność dodawania i zarządzania produktami w panelu admina - Piotr Korniak 2
 		6.Stworzenie skryptu do funkcjonalności dodawania i zarządzania produktami(Backend) - Mateusz Kopczan 2
 		7.Stworzenie walidacji dodawania i zarządzania produktami(Backend) - Michał Jakubowski 2
-		8.Testy integracyjne i manualne funkcjonalności dodawania produktów - Oskar Wal 2
-		
+		8.Testy integracyjne i manualne funkcjonalności dodawania produktów - Oskar Wal 2	
 		9.Rozbudowanie panelu admin o funkcjonalność dodawania kont i przeglądania zamówień - Piotr Korniak 2
 		10.Stworzenie skryptu do funkcjonalności dodawania kont i przeglądania zamówień(Backend) - Mateusz Kopczan 2
 		11.Stworzenie walidacji dodawania i zarządzania produktami(Backend) - Michał Jakubowski 2  
 		12.Testy integracyjne i manualne funkcjonalności dodawania kont i produktów - Oskar Wal 2
-		
 		13.Zbudowanie szablonu strony i stworzenie skryptów widoku produktów - Piotr Korniak 2
 		14.Skrypt dla widoku produktów( obsługa ładowania z bazy danych ) - Mateusz Kopczan 2
 		15.Testy regresyjne aktualnego stanu systemu - Oskar Wal 2
 		
 	Sprint 2:
-	    1.Zbudowanie szablonu wyszukiwarki, filtrów, stworzenie stronicowania produktów - Piotr Korniak 4
+	    	1.Zbudowanie szablonu wyszukiwarki, filtrów, stworzenie stronicowania produktów - Piotr Korniak 4
 		2.Zbudowanie skryptu wyszukiwarki po frazie - Mateusz Kopczan 2
 		3.Zbudowanie skryptu sortowania po cenie - Mateusz Kopczan 2
 		3.Walidacja danych wysyłanych do wyszukiwarki oraz do filtrów - Michał Jakubowski 3
-        4.Zbudowanie skryptu wyszukiwarki po kategorii - Michał Jakubowski 3 
-        5.Walidacja wyszukiwarki po kategorii - Michał Jakubowski 2	
-		6.Testy integracyjne i manualne wyszukiwarki - Oskar Wal 3
-		
+        	4.Zbudowanie skryptu wyszukiwarki po kategorii - Michał Jakubowski 3 
+        	5.Walidacja wyszukiwarki po kategorii - Michał Jakubowski 2	
+		6.Testy integracyjne i manualne wyszukiwarki - Oskar Wal 3	
 		7.Zbudowanie szablonu szczegółów produktów - Piotr Korniak 2
 		8.Oprogramowanie wyświetlania szczegółów danego produktu z bazy danych - Mateusz Kopczan 2
 		9.Testowanie regresyjne, zbadanie aktualnego stanu bezpieczeństwa aplikacji - Oskar Wal 4
-	
-	    10.Szablon strony zamówień - Piotr Korniak 2
+	    	10.Szablon strony zamówień - Piotr Korniak 2
 		11.Oprogramowanie wyświetlania zamówień z bazy danych - Mateusz Kopczan 2
 		12.Testowanie manualne szczegółów produktów - Oskar Wal 1
 		
