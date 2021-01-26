@@ -77,6 +77,8 @@ Milestone 2: Stworzenie dokumentacji i wizualizacji aplikacji 18-11-2020 - 19-12
 
 Przerwa świąteczna
 
+Milestone 3: Stworzenie planu pracy dla części implementacyjnej i ostatnie korekty 03-01-2021 - 26-01-2021 
+
 5. Data: 03-01-2021 - 17-01-2021
     Planning:
 	1.Propozycja planu pracy i kamieni milowych 1
