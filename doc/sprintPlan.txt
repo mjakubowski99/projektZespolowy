@@ -11,7 +11,7 @@ Milestone 2: Stworzenie dokumentacji i wizualizacji aplikacji
 		2.Stworzenie dokumentacji
 	
 Milestone 3: Stworzenie planu pracy dla części implementacyjnej i ostatnie korekty
-
+	Epic: Planning
 
 
 
@@ -74,7 +74,21 @@ Data: 14-10-2020 - 28-10-2020
 Przerwa świąteczna
 
 5. Data: 03-01-2021 - 17-01-2021
-
+    Planning:
+	1.Propozycja planu pracy i kamieni milowych 1
+	2.Propozycja planu pracy i kamieni milowych 2
+        3.Propozycja planu pracy i kamieni milowych 3
+	4.Wykreowanie planu pracy i kamieni milowych
+	5.Propozycja planu sprintu cz.1 - propozycja 1
+	6.Propozycja planu sprintu cz.1 - propozycja 2
+	7.Propozycja planu sprintu cz.1 - propozycja 3
+        8.Wykreowanie pierwszej cześci planu sprintu
+6. Data: 18-01-2021 - 26-01-2021
+    Planning:
+       Zadania przeniesione z poprzedniego sprintu:
+		1.Propozycja planu sprintu cz.1 - propozycja 2
+		2.Propozycja planu sprintu cz.1 - propozycja 3
+		3.Wykreowanie pierwszej cześci planu sprintu 
 
 
 
