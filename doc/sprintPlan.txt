@@ -1,5 +1,4 @@
-﻿
-Milestone 1: Stworzenie koncepcyjnego projektu aplikacji 14-10-2020 - 16-11-2020
+﻿Milestone 1: Stworzenie koncepcyjnego projektu aplikacji 14-10-2020 - 16-11-2020
 	Epic:
 		1.Dobór technologii 
 		2.Wizja aplikacji
@@ -11,43 +10,48 @@ Milestone 2: Stworzenie dokumentacji i wizualizacji aplikacji
 		2.Stworzenie dokumentacji
 	
 Milestone 3: Stworzenie planu pracy dla części implementacyjnej i ostatnie korekty
-
+	Epic: Planning
 
 
 
 Sprint planning:
 
-Data: 14-10-2020 - 28-10-2020
-1.Research i planowanie
-		1.Research - Matuesz Kopczan
-		2.Research - Oskar Wal
-		3.Research - Piotr Korniak
-		4.Research - Michał Jakubowski
+Milestone 1: Stworzenie koncepcyjnego projektu aplikacji 14-10-2020 - 16-11-2020
+
+
+	Sprint 1 Data: 14-10-2020 - 28-10-2020
+		Epic: Research i planowanie
+			1.Research - Matuesz Kopczan
+			2.Research - Oskar Wal
+			3.Research - Piotr Korniak
+			4.Research - Michał Jakubowski
 		
 		Epic: Technology choose
-		5.Wspólne ustalenie doboru technologii
-		6.Zdokumentowanie wybranych technologii
+			5.Wspólne ustalenie doboru technologii
+			6.Zdokumentowanie wybranych technologii
 		Epic: Application vision
-		7.Zaplanowanie funkcjonalności
-		8.Zdokumentowanie funkcjonalności		
+			7.Zaplanowanie funkcjonalności
+			8.Zdokumentowanie funkcjonalności		
 		
 		Epic: diagrams
-		9.Wstępny diagram klas
+			9.Wstępny diagram klas
 		
-		9.Spotkanie podsumowujące sprint, backlog refinement
-		10.Planowanie następnego sprintu
+			10.Spotkanie podsumowujące sprint, backlog refinement
+			11.Planowanie następnego sprintu
 
-02-11-2020 - 16-11-2020
-2. Data: Diagramy klas i nie tylko
-	1.Dopracowanie diagramu klas - diagramy
-	2.Sprawdzenie bepieczeństwa wybranych technologii
-	3.Stworzenie diagramu stanów - diagramy
-	4.Stworzenie diagramu sekwencji - diagramy
-	5.Wstępne przygotowanie oprogramowania i uzupełnienie wiedzy do projektu GUI aplikacji - technology choose
-	6.Dopracowanie diagramu stanów - diagramy 
-	7.Dopracowanie diagramów sekwencji - diagramy
-	8.Spotkanie podsumowujące sprint
-	9.Planowanie następnego sprintu
+	Sprint 2 Data: 02-11-2020 - 16-11-2020 
+     		Epic: Diagramy klas i nie tylko:
+			1.Dopracowanie diagramu klas - diagramy
+			2.Sprawdzenie bepieczeństwa wybranych technologii
+			3.Stworzenie diagramu stanów - diagramy
+			4.Stworzenie diagramu sekwencji - diagramy
+			5.Wstępne przygotowanie oprogramowania i uzupełnienie wiedzy do projektu GUI aplikacji - technology choose
+			6.Dopracowanie diagramu stanów - diagramy 
+			7.Dopracowanie diagramów sekwencji - diagramy
+			8.Spotkanie podsumowujące sprint
+			9.Planowanie następnego sprintu
+
+Milestone 2: Stworzenie dokumentacji i wizualizacji aplikacji 18-11-2020 - 19-12-2021
 
 3. Data: 18-11-2020 - 02-12-2020
 	1.Projekt bazy danych
@@ -73,8 +77,24 @@ Data: 14-10-2020 - 28-10-2020
 
 Przerwa świąteczna
 
-5. Data: 03-01-2021 - 17-01-2021
+Milestone 3: Stworzenie planu pracy dla części implementacyjnej i ostatnie korekty 03-01-2021 - 26-01-2021 
 
+5. Data: 03-01-2021 - 17-01-2021
+    Planning:
+	1.Propozycja planu pracy i kamieni milowych 1
+	2.Propozycja planu pracy i kamieni milowych 2
+        3.Propozycja planu pracy i kamieni milowych 3
+	4.Wykreowanie planu pracy i kamieni milowych
+	5.Propozycja planu sprintu cz.1 - propozycja 1
+	6.Propozycja planu sprintu cz.1 - propozycja 2
+	7.Propozycja planu sprintu cz.1 - propozycja 3
+        8.Wykreowanie pierwszej cześci planu sprintu
+6. Data: 18-01-2021 - 26-01-2021
+    Planning:
+       Zadania przeniesione z poprzedniego sprintu:
+		1.Propozycja planu sprintu cz.1 - propozycja 2
+		2.Propozycja planu sprintu cz.1 - propozycja 3
+		3.Wykreowanie pierwszej cześci planu sprintu 
 
 
 
