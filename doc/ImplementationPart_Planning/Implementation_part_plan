@@ -78,10 +78,10 @@ Milestone 3 -  System zakupów i ich wspomagania ( 3 maja - 3 czerwca )
 	Sprint 1:
 		1.Zbudowanie szablonu i skryptu koszyka - Piotr Korniak 3 
 		2.Oprogramowanie po stronie serwera funkcjonalności koszyka(kod strony koszyka i opcja dodawania do koszyka) - Mateusz Kopczan 4
-		3.Kontrola dostępu do koszyka i walidacja dodawania - Michał Jakubowski
+		3.Kontrola dostępu do koszyka i walidacja dodawania - Michał Jakubowski 3
 		4.Testy integracyjne i manualne koszyka - Oskar Wal 2
 		5.Zbudowanie szablonów potrzebnych do procesu zamówienia - Piotr Korniak 4
-		6.Oprogramowanie po stronie serwera procesu zamówienia - Michał Jakubowski 
+		6.Oprogramowanie po stronie serwera procesu zamówienia - Michał Jakubowski 4
 		7.Walidacja procesu zamówienia - Mateusz Kopczan 2
 		8.Testy integracyjne i manualne procesu zamówienia - Oskar Wal 3
 		9.Stworzenie panelu zgłaszania błędów - Piotr Korniak 1
@@ -91,7 +91,7 @@ Milestone 3 -  System zakupów i ich wspomagania ( 3 maja - 3 czerwca )
 	Sprint 2:
 		1.Stworzenie panelu kompletacji komputera - Piotr Korniak 4
 		2.Oprogramowanie po stronie serwera funkcjonalności kompletacji komputera - Mateusz Kopczan 5
-		3.Walidacja danych z procesu kompletacji komputera - Michał Jakubowski 3
+		3.Walidacja danych z procesu kompletacji komputera - Michał Jakubowski 2
 		4.Testy manualne i integracyjne procesu kompletacji komputera - Oskar Wal 4
 		5.Dodanie do strony głównej panelu rekomendacji produktów - Piotr Korniak 2
 		6.Oprogramowanie systemu rekomendacji produktów - Michał Jakubowski 3
